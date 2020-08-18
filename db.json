@@ -1,0 +1,18 @@
+campaigns: [
+  {
+    "name": "Facebook",
+    "leads": 123,
+    "revenue": 1000
+  },
+  {
+    "name": "Instagram",
+    "leads": 33,
+    "revenue": 57239
+  },
+  {
+    "name": "Twitter",
+    "leads": 777,
+    "revenue": 420,
+    "rpl": 502
+  }
+]
